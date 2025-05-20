@@ -1,0 +1,4 @@
+# 强制 .gitattributes 使用 LF
+.gitattributes text eol=lf
+
+* text=auto
